@@ -1,0 +1,4 @@
+/subprojects/*/
+!/subprojects/packagefiles/
+/tags
+/TAGS
