@@ -1,3 +1,9 @@
+Note: This is a source code mirror of the latest and last original q2pro engine.
+This will be archived as is for historical reasons. Cheers and god bless! - ZNukem
+
+Historical mirror notes:
+=====
+
 Q2PRO
 =====
 
